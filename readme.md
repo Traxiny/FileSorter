@@ -1,9 +1,8 @@
 # Sorter in Python
 
 # TODO  
-- [ ] Sort by date
+- [X] Sort by date
 - [ ] Sort by file type
-- [ ] Sort by name 
 - [ ] Combine sorts
 - [ ] Add folder structure choices
 
